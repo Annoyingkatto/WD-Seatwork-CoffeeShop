@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    margin: 5px;
+}
+
+div{
+    display: block;
+}
+
+.navbarNav{
+    text-align: right;
+    margin-left: auto;
+    padding-left: 30%;
+}
