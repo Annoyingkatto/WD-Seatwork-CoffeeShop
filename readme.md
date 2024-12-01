@@ -13,13 +13,12 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A website of a Pinoy themed Cafe.
 </div>
 
 <br />
 
-[![wakatime](https://wakatime.com/badge/user/4d4fa231-d023-4534-8ff2-17253fd52860/project/fd106b50-6f1a-4d54-afda-03ecfd1f74ea.svg)](https://wakatime.com/badge/user/4d4fa231-d023-4534-8ff2-17253fd52860/project/fd106b50-6f1a-4d54-afda-03ecfd1f74ea)
-
+[![wakatime](https://wakatime.com/badge/user/4d4fa231-d023-4534-8ff2-17253fd52860/project/17b2074f-749c-41ec-8a30-7645c4cf1a08.svg)](https://wakatime.com/badge/user/4d4fa231-d023-4534-8ff2-17253fd52860/project/17b2074f-749c-41ec-8a30-7645c4cf1a08)
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
@@ -57,22 +56,19 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+The theme that was assigned to me was coffee shop, I chose to work with the coffee shop "Babaylan Cafe", a shop managed by my cousin. All assets and information (however limited) were directly from them with their consent. I made a multipage website of the said cafe which consist of the home page, menu page, and about us page. 
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - A website of a coffee shop
+- Whats the purpose - To make a fuctional multipage website of a coffee shop
+- What are key components - Home page (latest releases), Menu (Product and product overview), About Us (Socials and contacts)
+- What technology used and how it is used - bootstrap, popper, css
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Responsive Navbar
+- Multipage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
