@@ -56,22 +56,19 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+The theme that was assigned to me was coffee shop, I chose to work with the coffee shop "Babaylan Cafe", a shop managed by my cousin. All assets and information (however limited) were directly from them with their consent. I made a multipage website of the said cafe which consist of the home page, menu page, and about us page. 
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - A website of a coffee shop
+- Whats the purpose - To make a fuctional multipage website of a coffee shop
+- What are key components - Home page (latest releases), Menu (Product and product overview), About Us (Socials and contacts)
+- What technology used and how it is used - bootstrap, popper, css
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Responsive Navbar
+- Multipage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
